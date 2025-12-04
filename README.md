@@ -1,6 +1,10 @@
 ## Hi there 👋
-
-## Studying Software Development C# .NET at Edugrade, Hudiksvall
+I am a Software Developer based in Söderhamn, Sweden.
+## About me
+---
+I'm Jesper Olofsson, a Software Developer Student with an emphasis on C# and .NET.  
+## Education
+Currently studying Software Development C# .NET at Edugrade, Hudiksvall.
 
 <!--
 **jespernapp/jespernapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
