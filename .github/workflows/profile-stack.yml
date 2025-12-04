@@ -1,21 +1,18 @@
-name: Profile Stack
+name: stack
+
 on:
   push:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 * * * *"
+    branches:
+      - main
 
 jobs:
-  profile-stack:
+  profile_stack:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate profile stack
-        uses: gleich/profile_stack@v2.1.0
-
-      - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
         with:
-          commit_message: "Update profile stack"
-          file_pattern: "profile-stack.png"
+          path: config/stack.yml
+          badges: false
+          technology_emoji: 👨🏻‍💻
+          project_emoji: ✨
