@@ -2,7 +2,7 @@
 I am a Software Developer based in Söderhamn, Sweden.
 ## About me
 ---
-I'm Jesper Olofsson, a Software Developer Student with an emphasis on C# and .NET.  
+I'm Jesper Olofsson, a Software Developer Student
 ## Education
 Currently studying Software Development C# .NET at Edugrade, Hudiksvall.
 ## Tech Stack
