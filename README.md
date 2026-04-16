@@ -13,11 +13,10 @@
 
 I'm a passionate **Software Developer Student** currently pursuing my education in **Software Development C# .NET** at Edugrade, Hudiksvall. I love building applications and learning new technologies to solve real-world problems.
 
--  Started my coding journey as a kid with Java
+-  Working as App Developer at Academic Work | .NET/React Native
 -  Studying Software Development C# .NET at Edugrade
 -  Currently expanding my skills in full-stack development
 -  Interested in backend development, database design and mobile apps
--  Goal: Building robust and scalable applications
 -  Located in Söderhamn, Sweden
 
 <br/>
