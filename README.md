@@ -64,20 +64,6 @@ I'm a passionate **Software Developer Student** currently pursuing my education 
 
 <br/>
 
-##  Featured Projects
-
-<div align="center">
-
-| Repository | Technologies |
-|------------|--------------|
-| **[Kalles-Fonster](https://github.com/jespernapp/Kalles-Fonster)** | JavaScript, Node.js |
-| **[WeatherApp](https://github.com/jespernapp/WeatherApp)** | React Native, TypeScript |
-| **[ChatServer](https://github.com/jespernapp/ChatServer)** | C#, .NET, WPF |
-| **[OrderSystem](https://github.com/jespernapp/Ordersystem)** | C#, ASP.NET, Blazor |
-
-
-</div>
-
 <br/>
 
 ##  Let's Connect!
