@@ -11,13 +11,11 @@
 
 ##  About Me
 
-I'm a passionate **Software Developer Student** currently pursuing my education in **Software Development C# .NET** at Edugrade, Hudiksvall. I love building applications and learning new technologies to solve real-world problems.
+I'm a **Software Developer** currently working as an App Developer at Academic Work.
 
 -  Working as App Developer at Academic Work | .NET/React Native
 -  Studying Software Development C# .NET at Edugrade
--  Currently expanding my skills in full-stack development
--  Interested in backend development, database design and mobile apps
--  Located in Söderhamn, Sweden
+-  Located in Ockelbo, Sweden
 
 <br/>
 
