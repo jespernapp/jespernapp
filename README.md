@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Based_in-Söderhamn,_Sweden-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Ockelbo,_Sweden-blue?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=jespernapp&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
 
